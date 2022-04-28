@@ -1,0 +1,24 @@
+.bridge-config {
+  .block-desc {
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: var(--el-text-color-secondary);
+    line-height: 20px;
+  }
+}
+
+.iot-form {
+  .part-header {
+    margin-bottom: 12px;
+  }
+  .sub-block-desc {
+    margin-bottom: 12px;
+    color: var(--el-text-color-secondary);
+    font-size: 12px;
+  }
+  .label-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
